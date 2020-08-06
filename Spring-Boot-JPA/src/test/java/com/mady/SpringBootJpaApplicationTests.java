@@ -1,10 +1,10 @@
-package com.barcode;
+package com.mady;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootBarcodeAppApplicationTests {
+class SpringBootJpaApplicationTests {
 
 	@Test
 	void contextLoads() {
